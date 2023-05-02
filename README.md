@@ -1,0 +1,2 @@
+# AutoMod-Badge
+AutoMod rozeti
