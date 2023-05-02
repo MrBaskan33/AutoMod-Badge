@@ -1,13 +1,18 @@
-# AutoMod Rozeti alma <img src="automod.svg" href="https://i.imgur.com/l1muxR0.png">
+# AutoMod Rozeti alma <img src="https://i.imgur.com/l1muxR0.png" width="30">
 ___
-* Lütfen bütün herşeyi dikkatli şekilde okuyunuz. Yapamadığınız bir yer olursa **[Benimle]()** iletişime geçebilirsiniz.
+* Lütfen bütün herşeyi dikkatli şekilde okuyunuz. Yapamadığınız bir yer olursa **[Benimle](https://discord.com/users/873182701061021696)** iletişime geçebilirsiniz.
 ___
-* AutoMod rozeti sadece botlarda bulunan ve alınabilmesi için aktif şekilde 100 AutoMod kuralının açık olması gereklidir.
-   * AutoMod kuralı her sunucuda en fazla 9 adet açılabilmektedir. Toplam 12 sunucuda AutoMod kuralını botunuz ile açmanız gereklidir.
+* AutoMod rozeti sadece botlarda bulunan bir rozetdir. Alınabilmesi için aktif şekilde 100 AutoMod kuralının açık olması gereklidir.
+   * AutoMod kuralı her sunucuda en fazla 9 adet açılabilmektedir. Toplam en az 12 sunucuda AutoMod kuralını botunuz ile açmanız gereklidir.
 ___
-* AutoMod kuralını açmak için koda ihtiyacınız vardır komut dosyasını **[Burada]()** bulabilirsiniz.
+* AutoMod kuralını açmak için koda ihtiyacınız vardır komut dosyasını **[Burada](https://github.com/MrBaskan33/AutoMod-Badge)** bulabilirsiniz.
    * Bu komutta `flagged-words` - `spam-messages` - `mention-spam` AutoMod'ları birer kez `keyword` AutoMod kuralı ise toplam kuralı 9'a tamamlamak için 6 kelime ile açılabilir.
 ___
-* Aşağıda resimler ile örnekleri görebilirsiniz.
+* Botunuza komutları ekleyip en az 100 AutoMod kuralını açtıktan sonra yaklaşık 15 dakika içinde rozet gelmezse **[Buradan](https://support.discord.com/hc/tr/requests/new)** talep açabilirsiniz.
 ___
-![Resim]()
+* Talebi şu şekilde açabilirsiniz. ↓↓↓
+> ![Resim](https://i.imgur.com/hhsVzT9.png)
+* Aşağıdaki resim yükleme alanınada veya açıklama bölümünede botunuzun komutlarını ve AutoMod kuralının engellediği bir mesajın fotoğrafını ekleyiniz.
+   * Örneği resimler. ↓↓↓
+> ![Resim](https://i.imgur.com/tw1VUpY.png)
+> ![Resim](https://i.imgur.com/TA0TzPX.png)
