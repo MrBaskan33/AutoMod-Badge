@@ -1,4 +1,4 @@
-# AutoMod Rozeti alma <img  src="/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg">
+# AutoMod Rozeti alma <img src="automod.svg" href="https://i.imgur.com/l1muxR0.png">
 ___
 * Lütfen bütün herşeyi dikkatli şekilde okuyunuz. Yapamadığınız bir yer olursa **[Benimle]()** iletişime geçebilirsiniz.
 ___
