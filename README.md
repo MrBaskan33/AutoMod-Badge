@@ -5,7 +5,7 @@ ___
 * AutoMod rozeti sadece botlarda bulunan bir rozetdir. Alınabilmesi için aktif şekilde 100 AutoMod kuralının açık olması gereklidir.
    * AutoMod kuralı her sunucuda en fazla 9 adet açılabilmektedir. Toplam en az 12 sunucuda AutoMod kuralını botunuz ile açmanız gereklidir.
 ___
-* AutoMod kuralını açmak için koda ihtiyacınız vardır komut dosyasını **[Burada](https://github.com/MrBaskan33/AutoMod-Badge)** bulabilirsiniz.
+* AutoMod kuralını açmak için koda ihtiyacınız vardır komut dosyasını **[Burada](https://github.com/MrBaskan33/AutoMod-Badge/blob/main/AutoMod.js)** bulabilirsiniz.
    * Bu komutta `flagged-words` - `spam-messages` - `mention-spam` AutoMod'ları birer kez `keyword` AutoMod kuralı ise toplam kuralı 9'a tamamlamak için 6 kelime ile açılabilir.
 ___
 * Botunuza komutları ekleyip en az 100 AutoMod kuralını açtıktan sonra yaklaşık 15 dakika içinde rozet gelmezse **[Buradan](https://support.discord.com/hc/tr/requests/new)** talep açabilirsiniz.
