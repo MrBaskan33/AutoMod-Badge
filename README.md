@@ -1,6 +1,6 @@
-# AutoMod Rozeti alma <img  src="/automod.svg"
+# AutoMod Rozeti alma <img  src="/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg">
 ___
-* ⚠️ Lütfen bütün herşeyi dikkatli şekilde okuyunuz. Yapamadığınız bir yer olursa **[Benimle]()** iletişime geçebilirsiniz.
+* Lütfen bütün herşeyi dikkatli şekilde okuyunuz. Yapamadığınız bir yer olursa **[Benimle]()** iletişime geçebilirsiniz.
 ___
 * AutoMod rozeti sadece botlarda bulunan ve alınabilmesi için aktif şekilde 100 AutoMod kuralının açık olması gereklidir.
    * AutoMod kuralı her sunucuda en fazla 9 adet açılabilmektedir. Toplam 12 sunucuda AutoMod kuralını botunuz ile açmanız gereklidir.
