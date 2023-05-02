@@ -1,7 +1,4 @@
 const { Discord, EmbedBuilder, ChannelType, ButtonBuilder, ActionRowBuilder, ButtonStyle, ModalBuilder, TextInputStyle, TextInputBuilder, InteractionType, PermissionsBitField, StringSelectMenuBuilder, SlashCommandBuilder, ContextMenuCommandBuilder, ApplicationCommandType } = require ("discord.js")
-const { JsonDatabase } = require("wio.db")
-const Emoji = require("../Bot/Emojiler.json")
-const Renk = require("../Bot/Renkler.json")
 const { botid } = require("../ayarlar.json")
 
 module.exports = {
@@ -35,8 +32,7 @@ module.exports = {
 async execute(client, interaction) { 
   
   await interaction.deferReply()
-  const db = new JsonDatabase({databasePath: `./Database/AutoMod.json`})
- 
+  
   if(!interaction.member.permissions.has(PermissionsBitField.Flags.Administrator)) return await interaction.editeply({content: `AutoMod açmak için **Yönetici** yetkisine sahip olmalısın.`})
 
   const { guild, options } = interaction
