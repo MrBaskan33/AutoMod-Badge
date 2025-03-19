@@ -19,5 +19,3 @@ ___
 ___
 * Destek açarken bazı yerleri kendinize göre değiştirebilirsiniz ve resimleri kendi botunuzdan resimleri ekleyerek gönderiniz.
 ___
-* Karşılığında bir star atarsanız çok sevinirim.
-___
