@@ -1,5 +1,4 @@
 const { Discord, EmbedBuilder, ChannelType, ButtonBuilder, ActionRowBuilder, ButtonStyle, ModalBuilder, TextInputStyle, TextInputBuilder, InteractionType, PermissionsBitField, StringSelectMenuBuilder, SlashCommandBuilder, ContextMenuCommandBuilder, ApplicationCommandType } = require ("discord.js")
-const { botid } = require("../ayarlar.json")
 
 module.exports = {
   slash: true,
@@ -41,7 +40,7 @@ async execute(client, interaction) {
       
     const Kural = await interaction.guild.autoModerationRules.create({
       name: 'Spam messages',
-      creatorId: botid,
+      creatorId: client.user.id,
       enabled: true,
       eventType: 1,
       triggerType: 3,
@@ -75,7 +74,7 @@ async execute(client, interaction) {
       
     const Kural2 = await interaction.guild.autoModerationRules.create({
       name: 'Flagged words',
-      creatorId: botid,
+      creatorId: client.user.id,
       enabled: true,
       eventType: 1,
       triggerType: 4,
@@ -109,7 +108,7 @@ async execute(client, interaction) {
       
     const Kural3 = await interaction.guild.autoModerationRules.create({
       name: 'Mention spam',
-      creatorId: botid,
+      creatorId: client.user.id,
       enabled: true,
       eventType: 1,
       triggerType: 5,
@@ -144,7 +143,7 @@ async execute(client, interaction) {
   
     const Kural4 = await interaction.guild.autoModerationRules.create({
       name: 'Keyword',
-      creatorId: botid,
+      creatorId: client.user.id,
       enabled: true,
       eventType: 1,
       triggerType: 1,
